@@ -33,7 +33,6 @@ const veer = {
   location    : "India 🇮🇳",
   role        : "Full Stack Developer",
   education   : "BCA Student",
-  seeking     : "Internship Opportunities 🚀",
   focus       : ["Advanced MERN Stack", "DSA", "AI & LLM Applications"],
   philosophy  : "Clean code is not written by following rules — it's a craft.",
 };
