@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi, I'm Veer Pratap Singh 👋</h1>
 
 <p align="center">
@@ -50,4 +50,4 @@ Frontend clone inspired by Myntra.
 <p align="center">
 Keep Learning • Keep Building 🚀
 </p>
-```
+
