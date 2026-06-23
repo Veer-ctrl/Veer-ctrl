@@ -125,7 +125,7 @@ const veer = {
       <h3 align="center">🏢 Corporate Portal</h3>
       <p align="center">
         <!-- REPLACE: Add your project link below -->
-        <a href="https://github.com/Veer-ctrl/Corporate_portal">
+        <a href="https://github.com/Veer-ctrl/CMS">
           <img src="https://img.shields.io/badge/View_Project-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Corporate Portal"/>
         </a>
       </p>
