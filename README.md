@@ -89,7 +89,7 @@ const veer = {
       <h3 align="center">🌐 Club Sphere</h3>
       <p align="center">
         <!-- REPLACE: Add your project link below -->
-        <a href="https://github.com/Veer-ctrl/[club-sphere-repo]">
+        <a href="https://github.com/Veer-ctrl/Club-Management-System-">
           <img src="https://img.shields.io/badge/View_Project-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Club Sphere"/>
         </a>
       </p>
@@ -103,10 +103,10 @@ const veer = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛍️ Myntra Clone</h3>
+      <h3 align="center">🛍️ E-Commerce Site</h3>
       <p align="center">
         <!-- REPLACE: Add your project link below -->
-        <a href="https://github.com/Veer-ctrl/[myntra-repo]">
+        <a href="https://github.com/Veer-ctrl/Myntra-Ecommerce-Platform">
           <img src="https://img.shields.io/badge/View_Project-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Myntra Clone"/>
         </a>
       </p>
@@ -125,7 +125,7 @@ const veer = {
       <h3 align="center">🏢 Corporate Portal</h3>
       <p align="center">
         <!-- REPLACE: Add your project link below -->
-        <a href="https://github.com/Veer-ctrl/[corporate-portal-repo]">
+        <a href="https://github.com/Veer-ctrl/Corporate_portal">
           <img src="https://img.shields.io/badge/View_Project-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Corporate Portal"/>
         </a>
       </p>
