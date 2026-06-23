@@ -197,10 +197,10 @@ const veer = {
 > I'm always open to meaningful conversations — whether it's about tech, projects, or opportunities.
 
 <!-- REPLACE: Add your LinkedIn URL below -->
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME])
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VeerPR)
 
 <!-- REPLACE: Add your email address below -->
-[![Email Me](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL@gmail.com])
+[![Email Me](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veerprsingh04@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Veer-ctrl)
 
